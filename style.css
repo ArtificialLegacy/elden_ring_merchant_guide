@@ -1,0 +1,25 @@
+
+body {
+    background-color: gray;
+}
+
+.group {
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 15em;
+    padding: 5px;
+
+    background-color: black;
+    color: white;
+
+    p {
+        text-align: center;
+
+        border-bottom: 1px solid white;
+    }
+}
+
+.group-list {
+    display: flex;
+    flex-direction: column;
+}
