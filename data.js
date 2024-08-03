@@ -120,6 +120,7 @@ const festeringBloodyfinger = {
 }
 
 const nomadicMerchant1 = {
+    id: "25965922-8965-430d-b1c5-b1fed75c4bfb",
     name: "Nomadic Merchant 1",
     location: "North Limgrave",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+North+Limgrave",
@@ -130,6 +131,7 @@ const nomadicMerchant1 = {
 }
 
 const nomadicMerchant2 = {
+    id: "e894db75-0a62-401e-bc26-f6fd4fb8b8e2",
     name: "Nomadic Merchant 2",
     location: "East Limgrave",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+East+Limgrave",
@@ -140,6 +142,7 @@ const nomadicMerchant2 = {
 }
 
 const nomadicMerchant3 = {
+    id: "1d74ef62-f2cf-4cb9-a7c1-7646256fb709",
     name: "Nomadic Merchant 3",
     location: "West Limgrave",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+West+Limgrave",
@@ -150,6 +153,7 @@ const nomadicMerchant3 = {
 }
 
 const nomadicMerchant4 = {
+    id: "6b54f708-d442-49bf-8fb4-546564a8244a",
     name: "Nomadic Merchant 4",
     location: "Castle Morne Rampart",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+Castle+Morne+Rampart",
@@ -161,6 +165,7 @@ const nomadicMerchant4 = {
 }
 
 const nomadicMerchant5 = {
+    id: "370f56f1-d04a-4963-ab36-78f816f66d83",
     name: "Nomadic Merchant 5",
     location: "Liurnia of the Lakes",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+Liurnia+of+the+Lakes",
@@ -171,6 +176,7 @@ const nomadicMerchant5 = {
 }
 
 const nomadicMerchant6 = {
+    id: "9c408619-e7d9-427c-95fc-a136e2ffb953",
     name: "Nomadic Merchant 6",
     location: "North Liurnia of the Lakes",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+North+Liurnia+of+the+Lakes",
@@ -181,6 +187,7 @@ const nomadicMerchant6 = {
 }
 
 const nomadicMerchant7 = {
+    id: "47a8dbb6-7b80-4a81-bf66-a4c9a39cf626",
     name: "Nomadic Merchant 7",
     location: "West Altus Plateau",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+West+Altus+Plateau",
@@ -192,6 +199,7 @@ const nomadicMerchant7 = {
 }
 
 const nomadicMerchant8 = {
+    id: "b13729cc-1471-4e47-a7e5-875c23f36722",
     name: "Nomadic Merchant 8",
     location: "Mt. Gelmir",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+Mt.+Gelmir",
@@ -206,6 +214,7 @@ const nomadicMerchant8 = {
 }
 
 const nomadicMerchant9 = {
+    id: "8780d35c-d627-409c-8aa1-b26bfd668bf1",
     name: "Nomadic Merchant 9",
     location: "Caelid Highway North",
     link: "https://eldenring.wiki.fextralife.com/Wandering+Merchant+Caelid+Highway+North",
@@ -220,6 +229,7 @@ const nomadicMerchant9 = {
 }
 
 const nomadicMerchant10 = {
+    id: "f76f0da0-ccef-420a-8a7c-8e11992cda33",
     name: "Nomadic Merchant 10",
     location: "Caelid South",
     link: "https://eldenring.wiki.fextralife.com/Nomadic+Merchant+Caelid+South",
@@ -231,6 +241,7 @@ const nomadicMerchant10 = {
 }
 
 const isolatedMerchant1 = {
+    id: "efb5690b-b8aa-4a59-969e-91d6ccc27532",
     name: "Isolated Merchant 1",
     location: "Weeping Pininsula",
     link: "https://eldenring.wiki.fextralife.com/Isolated+Merchant+Weeping+Peninsula",
@@ -241,6 +252,7 @@ const isolatedMerchant1 = {
 }
 
 const isolatedMerchant2 = {
+    id: "d56a0079-fdb9-409a-a233-62c23055828e",
     name: "Isolated Merchant 2",
     location: "Raya Lucaria",
     link: "https://eldenring.wiki.fextralife.com/Isolated+Merchant+Raya+Lucaria",
@@ -250,6 +262,7 @@ const isolatedMerchant2 = {
 }
 
 const isolatedMerchant3 = {
+    id: "82eb7626-6119-442a-a152-b1e3da622b80",
     name: "Isolated Merchant 3",
     location: "Dragonbarrow",
     link: "https://eldenring.wiki.fextralife.com/Isolated+Merchant+Dragonbarrow",
@@ -261,6 +274,7 @@ const isolatedMerchant3 = {
 }
 
 const hermitMerchant1 = {
+    id: "f98499d5-ea6f-4024-af87-10ea39c77603",
     name: "Hermit Merchant 1",
     location: "Leyndell",
     link: "https://eldenring.wiki.fextralife.com/Hermit+Merchant",
@@ -276,6 +290,7 @@ const hermitMerchant1 = {
 }
 
 const hermitMerchant2 = {
+    id: "03ebe403-09ae-4151-a9fe-d3510a78e015",
     name: "Hermit Merchant 2",
     location: "Mountaintops of the Giants East",
     link: "https://eldenring.wiki.fextralife.com/Hermit+Merchant+Mountaintops+East",
@@ -289,6 +304,7 @@ const hermitMerchant2 = {
 }
 
 const hermitMerchant3 = {
+    id: "035fd93e-e519-4204-8031-edbae43e88d5",
     name: "Hermit Merchant 3",
     location: "Ainsel River",
     link: "https://eldenring.wiki.fextralife.com/Hermit+Merchant+Ainsel+River",
@@ -296,6 +312,7 @@ const hermitMerchant3 = {
 }
 
 const imprisonedMerchant = {
+    id: "bc6b97ba-20c5-4043-aaf9-524863eadae9",
     name: "Imprisoned Merchant",
     location: "Mohgwyn Dynasty Mausoleum",
     link: "https://eldenring.wiki.fextralife.com/Imprisoned+Merchant",
@@ -307,6 +324,7 @@ const imprisonedMerchant = {
 }
 
 const abandonedMerchant = {
+    id: "edbac90f-b2b8-48bc-b417-6f1a038b0198",
     name: "Abandoned Merchant",
     location: "Siofra River",
     link: "https://eldenring.wiki.fextralife.com/Abandoned+Merchant+Siofra+River",
@@ -317,6 +335,7 @@ const abandonedMerchant = {
 }
 
 const kaleMerchant = {
+    id: "722ae8ed-bfbb-477b-973e-c4dff14e5354",
     name: "Merchant Kalé",
     location: "Limgrave: Church of Elleh",
     link: "https://eldenring.wiki.fextralife.com/Merchant+Kal%C3%A9",
@@ -328,6 +347,7 @@ const kaleMerchant = {
 }
 
 const patches = {
+    id: "e604be4e-a602-4a8c-b582-2c6be142d161",
     name: "Patches",
     location: "Limgrave: Murkwater Cave",
     link: "https://eldenring.wiki.fextralife.com/Patches",
@@ -337,6 +357,7 @@ const patches = {
 }
 
 const boggart = {
+    id: "903dfa33-66f7-42f3-afa6-4517d10de515",
     name: "Blackguard Big Boggart",
     location: "Liurnia of the Lakes: Boilprawn Shack",
     link: "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
@@ -347,6 +368,7 @@ const boggart = {
 }
 
 const iji = {
+    id: "8f1fb653-0830-45aa-b240-60ef8cb2de36",
     name: "War Counselor Iji",
     location: "Liurnia of the Lakes: Kingsrealm Ruins",
     link: "https://eldenring.wiki.fextralife.com/War+Counselor+Iji",
@@ -357,6 +379,7 @@ const iji = {
 }
 
 const enia = {
+    id: "98f3e3cc-68e3-4fdc-ab5c-f5e2d026c840",
     name: "Enia",
     location: "Roundtable Hold",
     link: "https://eldenring.wiki.fextralife.com/Enia",
